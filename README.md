@@ -1,2 +1,3 @@
-# USDrawAI
-US Draw AI - Powerball prediction data
+# Vector Nimbus
+
+Data resources and updates.
