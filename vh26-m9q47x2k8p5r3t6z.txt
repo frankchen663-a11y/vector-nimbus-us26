@@ -1,0 +1,59 @@
+Powerball AI
+VIP HISTORY
+
+Recent 5 draws
+Latest first
+
+PB format marker: | PB:
+White-ball hits = parentheses
+PB hit = PB number in parentheses
+
+Latest Draw
+DRAW: 02 21 24 25 64 | PB: 07
+VIP 1: 28 36 42 50 58 | PB: 03
+Result: White 0
+VIP 2: 28 36 42 50 58 | PB: 14
+Result: White 0
+VIP 3: 28 36 42 50 58 | PB: 02
+Result: White 0
+------------------------
+Previous 1
+DRAW: 19 20 57 61 67 | PB: 22
+VIP 1: 28 36 42 50 58 | PB: 03
+Result: White 0
+VIP 2: 28 36 42 50 58 | PB: 14
+Result: White 0
+VIP 3: 28 36 42 50 58 | PB: 02
+Result: White 0
+------------------------
+Previous 2
+DRAW: 14 16 23 58 69 | PB: 03
+VIP 1: 28 36 42 50 (58) | PB: (03)
+Result: White 1 + PB
+VIP 2: 28 36 42 50 (58) | PB: 14
+Result: White 1
+VIP 3: 28 36 42 50 (58) | PB: 02
+Result: White 1
+------------------------
+Previous 3
+DRAW: 09 40 42 55 65 | PB: 23
+VIP 1: 28 36 (42) 50 58 | PB: 03
+Result: White 1
+VIP 2: 28 36 (42) 50 58 | PB: 14
+Result: White 1
+VIP 3: 28 36 (42) 50 58 | PB: 02
+Result: White 1
+------------------------
+Previous 4
+DRAW: 15 19 28 39 56 | PB: 03
+VIP 1: (28) 36 42 50 58 | PB: (03)
+Result: White 1 + PB
+VIP 2: (28) 36 42 50 58 | PB: 14
+Result: White 1
+VIP 3: (28) 36 42 50 58 | PB: 02
+Result: White 1
+------------------------
+
+Note: Parentheses indicate matched numbers.
+The Android UI may color the entire '| PB:' section red.
+For entertainment and statistical research only.
