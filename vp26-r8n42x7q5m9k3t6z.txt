@@ -1,0 +1,31 @@
+Powerball AI
+VIP PICKS
+
+VIP 1
+28 36 42 50 58 | PB: 03
+
+VIP 2
+28 36 42 50 58 | PB: 14
+
+VIP 3
+28 36 42 50 58 | PB: 02
+
+MODEL PERFORMANCE
+Last 260 held-out draws
+
+WHITE BALLS
+White 2+ Match Rate: 10/260 = 3.85%
+White 3+ Match Rate: 0/260 = 0.00%
+
+POWERBALL
+PB Top-3 Hit Rate: 40/260 = 15.38%
+Random Top-3 Coverage: 11.54%
+Backtest Lift: +3.84 percentage points
+
+PRIZE-QUALIFYING RATE
+40/260 = 15.38%
+
+White-ball and Powerball results are counted separately.
+
+For entertainment and statistical research only.
+Historical backtests do not guarantee future results
