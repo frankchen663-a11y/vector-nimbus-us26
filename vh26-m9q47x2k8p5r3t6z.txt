@@ -1,4 +1,4 @@
-Powerball AI
+US Draw AI
 VIP HISTORY
 
 Recent 5 draws
@@ -9,51 +9,52 @@ White-ball hits = parentheses
 PB hit = PB number in parentheses
 
 Latest Draw
-DRAW: 02 21 24 25 64 | PB: 07
-VIP 1: 28 36 42 50 58 | PB: 03
-Result: White 0
-VIP 2: 28 36 42 50 58 | PB: 14
-Result: White 0
-VIP 3: 28 36 42 50 58 | PB: 02
+DRAW: 04 42 44 55 59 | PB: 14
+VIP 1: 17 30 57 58 64 | PB: (14)
+Result: PB Only
+VIP 2: 21 29 40 49 (55) | PB: 20
+Result: White 1
+VIP 3: 02 09 14 15 65 | PB: 02
 Result: White 0
 ------------------------
 Previous 1
-DRAW: 19 20 57 61 67 | PB: 22
-VIP 1: 28 36 42 50 58 | PB: 03
+DRAW: 04 06 23 33 44 | PB: 13
+VIP 1: 17 30 57 58 64 | PB: 14
 Result: White 0
-VIP 2: 28 36 42 50 58 | PB: 14
+VIP 2: 21 29 40 49 55 | PB: 20
 Result: White 0
-VIP 3: 28 36 42 50 58 | PB: 02
+VIP 3: 02 09 14 15 65 | PB: 02
 Result: White 0
 ------------------------
 Previous 2
-DRAW: 14 16 23 58 69 | PB: 03
-VIP 1: 28 36 42 50 (58) | PB: (03)
-Result: White 1 + PB
-VIP 2: 28 36 42 50 (58) | PB: 14
+DRAW: 17 21 29 42 49 | PB: 07
+VIP 1: 15 (17) 30 58 64 | PB: 14
 Result: White 1
-VIP 3: 28 36 42 50 (58) | PB: 02
+VIP 2: 02 25 55 57 65 | PB: 20
+Result: White 0
+VIP 3: 09 14 (29) 40 67 | PB: 02
 Result: White 1
 ------------------------
 Previous 3
-DRAW: 09 40 42 55 65 | PB: 23
-VIP 1: 28 36 (42) 50 58 | PB: 03
+DRAW: 14 40 52 55 57 | PB: 24
+VIP 1: 25 30 (40) 58 65 | PB: 14
 Result: White 1
-VIP 2: 28 36 (42) 50 58 | PB: 14
-Result: White 1
-VIP 3: 28 36 (42) 50 58 | PB: 02
-Result: White 1
+VIP 2: 02 09 18 29 67 | PB: 20
+Result: White 0
+VIP 3: 15 17 26 45 64 | PB: 02
+Result: White 0
 ------------------------
 Previous 4
-DRAW: 15 19 28 39 56 | PB: 03
-VIP 1: (28) 36 42 50 58 | PB: (03)
-Result: White 1 + PB
-VIP 2: (28) 36 42 50 58 | PB: 14
+DRAW: 02 15 26 29 30 | PB: 14
+VIP 1: (15) 25 57 58 64 | PB: 20
 Result: White 1
-VIP 3: (28) 36 42 50 58 | PB: 02
+VIP 2: 09 18 19 65 67 | PB: (14)
+Result: PB Only
+VIP 3: (02) 17 40 45 61 | PB: 02
 Result: White 1
 ------------------------
 
-Note: Parentheses indicate matched numbers.
+Note: Each historical row uses only information available before that draw.
+Parentheses indicate matched numbers.
 The Android UI may color the entire '| PB:' section red.
-For entertainment and statistical research only.
+For entertainment and statistical research only
