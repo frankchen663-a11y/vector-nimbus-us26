@@ -1,31 +1,39 @@
-Powerball AI
+US Draw AI
 VIP PICKS
 
 VIP 1
-28 36 42 50 58 | PB: 03
+21 29 44 55 59 | PB: 14
 
 VIP 2
-28 36 42 50 58 | PB: 14
+04 14 15 17 42 | PB: 20
 
 VIP 3
-28 36 42 50 58 | PB: 02
+02 30 40 57 58 | PB: 02
 
 MODEL PERFORMANCE
-Last 260 held-out draws
+Last 260 true walk-forward draws
 
-WHITE BALLS
-White 2+ Match Rate: 10/260 = 3.85%
-White 3+ Match Rate: 0/260 = 0.00%
+VIP WHITE BALLS - 3 DISJOINT GROUPS
+At least one VIP group White 2+: 35/260 = 13.46%
+Random 3-group White 2+ baseline: 11.51%
+White 2+ Lift: +1.96 percentage points
+At least one VIP group White 3+: 2/260 = 0.77%
+
+ORDINARY / SINGLE WHITE GROUP
+White 2+: 13/260 = 5.00%
+Random single-group White 2+ baseline: 3.89%
+White 3+: 0/260 = 0.00%
 
 POWERBALL
-PB Top-3 Hit Rate: 40/260 = 15.38%
+PB Top-3 Hit Rate: 35/260 = 13.46%
 Random Top-3 Coverage: 11.54%
-Backtest Lift: +3.84 percentage points
+PB Lift: +1.92 percentage points
 
-PRIZE-QUALIFYING RATE
-40/260 = 15.38%
+PRIZE-QUALIFYING RATE - 3 VIP TICKETS
+36/260 = 13.85%
 
-White-ball and Powerball results are counted separately.
+Engine: White EWMA half-life 10; PB EWMA half-life 160.
+Historical backtests do not guarantee future results.
 
 For entertainment and statistical research only.
-Historical backtests do not guarantee future results
+Historical backtests do not guarantee future results.
