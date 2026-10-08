@@ -1,29 +1,39 @@
-Powerball AI
+US Draw AI
 
 TODAY'S PICKS
 
 WHITE BALLS
-28 36 42 50 58
+04 29 42 XX XX
 
 POWERBALL CANDIDATES
-03 / 14 / 02
+14 / 20 / 02
+
+2 WHITE-BALL PICKS ARE LOCKED FOR VIP
 
 MODEL PERFORMANCE
-Last 260 held-out draws
+Last 260 true walk-forward draws
 
-WHITE BALLS
-White 2+ Match Rate: 10/260 = 3.85%
-White 3+ Match Rate: 0/260 = 0.00%
+VIP WHITE BALLS - 3 DISJOINT GROUPS
+At least one VIP group White 2+: 35/260 = 13.46%
+Random 3-group White 2+ baseline: 11.51%
+White 2+ Lift: +1.96 percentage points
+At least one VIP group White 3+: 2/260 = 0.77%
+
+ORDINARY / SINGLE WHITE GROUP
+White 2+: 13/260 = 5.00%
+Random single-group White 2+ baseline: 3.89%
+White 3+: 0/260 = 0.00%
 
 POWERBALL
-PB Top-3 Hit Rate: 40/260 = 15.38%
+PB Top-3 Hit Rate: 35/260 = 13.46%
 Random Top-3 Coverage: 11.54%
-Backtest Lift: +3.84 percentage points
+PB Lift: +1.92 percentage points
 
-PRIZE-QUALIFYING RATE
-40/260 = 15.38%
+PRIZE-QUALIFYING RATE - 3 VIP TICKETS
+36/260 = 13.85%
 
-White-ball and Powerball results are counted separately.
+Engine: White EWMA half-life 10; PB EWMA half-life 160.
+Historical backtests do not guarantee future results.
 
 HOW TO READ RESULTS
 White 2 = two white balls matched.
