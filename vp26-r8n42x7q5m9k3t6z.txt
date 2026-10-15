@@ -1,14 +1,14 @@
 US Draw AI
+VIP PICKS
 
-TODAY'S PICKS
+VIP 1
+02 14 33 42 51 | PB: 14
 
-WHITE BALLS
-04 14 21 XX XX
+VIP 2
+04 23 29 44 65 | PB: 20
 
-POWERBALL CANDIDATES
-14 / 20 / 02
-
-2 WHITE-BALL PICKS ARE LOCKED FOR VIP
+VIP 3
+03 19 21 55 58 | PB: 02
 
 MODEL PERFORMANCE
 Last 260 true walk-forward draws
@@ -34,11 +34,6 @@ PRIZE-QUALIFYING RATE - 3 VIP TICKETS
 
 Engine: White EWMA half-life 10; PB EWMA half-life 160.
 Historical backtests do not guarantee future results.
-
-HOW TO READ RESULTS
-White 2 = two white balls matched.
-White 1 + PB = one white ball and the Powerball matched.
-PB Only = only the Powerball matched.
 
 For entertainment and statistical research only.
 Historical backtests do not guarantee future results.
