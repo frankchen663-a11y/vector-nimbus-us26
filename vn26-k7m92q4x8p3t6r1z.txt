@@ -3,7 +3,7 @@ US Draw AI
 TODAY'S PICKS
 
 WHITE BALLS
-04 14 21 XX XX
+04 13 14 XX XX
 
 POWERBALL CANDIDATES
 14 / 20 / 02
@@ -25,12 +25,12 @@ Random single-group White 2+ baseline: 3.89%
 White 3+: 0/260 = 0.00%
 
 POWERBALL
-PB Top-3 Hit Rate: 35/260 = 13.46%
+PB Top-3 Hit Rate: 34/260 = 13.08%
 Random Top-3 Coverage: 11.54%
-PB Lift: +1.92 percentage points
+PB Lift: +1.54 percentage points
 
 PRIZE-QUALIFYING RATE - 3 VIP TICKETS
-36/260 = 13.85%
+35/260 = 13.46%
 
 Engine: White EWMA half-life 10; PB EWMA half-life 160.
 Historical backtests do not guarantee future results.
