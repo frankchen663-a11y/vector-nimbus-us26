@@ -3,10 +3,10 @@ US Draw AI
 TODAY'S PICKS
 
 WHITE BALLS
-04 13 14 XX XX
+04 13 21 XX XX
 
 POWERBALL CANDIDATES
-14 / 20 / 02
+14 / 20 / 23
 
 2 WHITE-BALL PICKS ARE LOCKED FOR VIP
 
@@ -14,9 +14,9 @@ MODEL PERFORMANCE
 Last 260 true walk-forward draws
 
 VIP WHITE BALLS - 3 DISJOINT GROUPS
-At least one VIP group White 2+: 35/260 = 13.46%
+At least one VIP group White 2+: 34/260 = 13.08%
 Random 3-group White 2+ baseline: 11.51%
-White 2+ Lift: +1.96 percentage points
+White 2+ Lift: +1.57 percentage points
 At least one VIP group White 3+: 2/260 = 0.77%
 
 ORDINARY / SINGLE WHITE GROUP
