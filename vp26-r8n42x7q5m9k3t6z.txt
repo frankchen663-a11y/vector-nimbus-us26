@@ -2,13 +2,13 @@ US Draw AI
 VIP PICKS
 
 VIP 1
-13 23 29 42 65 | PB: 14
+13 42 44 50 65 | PB: 14
 
 VIP 2
-03 21 32 55 58 | PB: 20
+04 14 21 23 55 | PB: 20
 
 VIP 3
-02 04 14 33 51 | PB: 23
+01 32 51 57 58 | PB: 23
 
 MODEL PERFORMANCE
 Last 260 true walk-forward draws
