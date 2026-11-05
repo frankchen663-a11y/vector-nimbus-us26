@@ -2,13 +2,13 @@ US Draw AI
 VIP PICKS
 
 VIP 1
-11 21 42 44 55 | PB: 14
+04 13 21 55 56 | PB: 20
 
 VIP 2
-04 16 32 54 57 | PB: 20
+02 16 23 42 50 | PB: 14
 
 VIP 3
-13 15 19 49 50 | PB: 01
+15 18 19 29 32 | PB: 23
 
 MODEL PERFORMANCE
 Last 260 true walk-forward draws
@@ -25,12 +25,12 @@ Random single-group White 2+ baseline: 3.89%
 White 3+: 0/260 = 0.00%
 
 POWERBALL
-PB Top-3 Hit Rate: 33/260 = 12.69%
+PB Top-3 Hit Rate: 32/260 = 12.31%
 Random Top-3 Coverage: 11.54%
-PB Lift: +1.15 percentage points
+PB Lift: +0.77 percentage points
 
 PRIZE-QUALIFYING RATE - 3 VIP TICKETS
-34/260 = 13.08%
+33/260 = 12.69%
 
 Engine: White EWMA half-life 10; PB EWMA half-life 160.
 Historical backtests do not guarantee future results.
