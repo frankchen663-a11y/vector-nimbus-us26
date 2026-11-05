@@ -1,3 +1,30 @@
+VIP 1: 04 18 19 29 32 | PB: 20
+Result: White 0
+VIP 2: 13 21 44 50 55 | PB: 14
+Result: White 0
+VIP 3: 02 16 23 42 64 | PB: 23
+Result: White 0
+------------------------
+Previous 1
+DRAW: 07 23 29 64 66 | PB: 23
+VIP 1: 02 04 16 18 54 | PB: 20
+Result: White 0
+VIP 2: 13 15 19 32 50 | PB: 14
+Result: White 0
+VIP 3: 11 21 42 44 55 | PB: 01
+Result: White 0
+------------------------
+Previous 2
+DRAW: 02 04 18 50 56 | PB: 20
+VIP 1: 11 21 42 44 55 | PB: 14
+Result: White 0
+VIP 2: (04) 16 32 54 57 | PB: (20)
+Result: White 1 + PB
+VIP 3: 13 15 19 49 (50) | PB: 01
+Result: White 1
+------------------------
+Previous 3
+DRAW: 11 13 16 47 60 | PB: 13
 VIP 1: 15 19 26 32 42 | PB: 14
 Result: White 0
 VIP 2: 04 18 44 50 57 | PB: 20
@@ -5,7 +32,7 @@ Result: White 0
 VIP 3: (13) 21 49 54 55 | PB: 01
 Result: White 1
 ------------------------
-Previous 1
+Previous 4
 DRAW: 18 26 49 50 54 | PB: 01
 VIP 1: 13 32 42 44 65 | PB: 14
 Result: White 0
@@ -14,35 +41,8 @@ Result: White 0
 VIP 3: 01 19 21 (50) 57 | PB: 23
 Result: White 1
 ------------------------
-Previous 2
-DRAW: 04 05 15 19 55 | PB: 19
-VIP 1: 13 42 44 50 65 | PB: 14
-Result: White 0
-VIP 2: (04) 14 21 23 (55) | PB: 20
-Result: White 2
-VIP 3: 01 32 51 57 58 | PB: 23
-Result: White 0
-------------------------
-Previous 3
-DRAW: 01 21 44 50 57 | PB: 05
-VIP 1: 13 23 29 42 65 | PB: 14
-Result: White 0
-VIP 2: 03 (21) 32 55 58 | PB: 20
-Result: White 1
-VIP 3: 02 04 14 33 51 | PB: 23
-Result: White 0
-------------------------
-Previous 4
-DRAW: 08 31 32 42 48 | PB: 23
-VIP 1: 21 23 29 (42) 65 | PB: 14
-Result: White 1
-VIP 2: 03 04 14 55 58 | PB: 20
-Result: White 0
-VIP 3: 02 13 (32) 33 51 | PB: 02
-Result: White 1
-------------------------
 
 Note: Each historical row uses only information available before that draw.
 Parentheses indicate matched numbers.
 The Android UI may color the entire '| PB:' section red.
-For entertainment and statistical research only.
+For entertainment and statistical research only
