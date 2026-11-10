@@ -1,3 +1,21 @@
+VIP 1: 02 03 15 37 56 | PB: 20
+Result: White 0
+VIP 2: 04 (13) 29 32 42 | PB: 14
+Result: White 1
+VIP 3: 18 21 23 50 55 | PB: 23
+Result: White 0
+------------------------
+Previous 1
+DRAW: 03 36 37 56 61 | PB: 21
+VIP 1: 04 13 21 55 (56) | PB: 20
+Result: White 1
+VIP 2: 02 16 23 42 50 | PB: 14
+Result: White 0
+VIP 3: 15 18 19 29 32 | PB: 23
+Result: White 0
+------------------------
+Previous 2
+DRAW: 15 34 41 53 56 | PB: 21
 VIP 1: 04 18 19 29 32 | PB: 20
 Result: White 0
 VIP 2: 13 21 44 50 55 | PB: 14
@@ -5,7 +23,7 @@ Result: White 0
 VIP 3: 02 16 23 42 64 | PB: 23
 Result: White 0
 ------------------------
-Previous 1
+Previous 3
 DRAW: 07 23 29 64 66 | PB: 23
 VIP 1: 02 04 16 18 54 | PB: 20
 Result: White 0
@@ -14,31 +32,13 @@ Result: White 0
 VIP 3: 11 21 42 44 55 | PB: 01
 Result: White 0
 ------------------------
-Previous 2
+Previous 4
 DRAW: 02 04 18 50 56 | PB: 20
 VIP 1: 11 21 42 44 55 | PB: 14
 Result: White 0
 VIP 2: (04) 16 32 54 57 | PB: (20)
 Result: White 1 + PB
 VIP 3: 13 15 19 49 (50) | PB: 01
-Result: White 1
-------------------------
-Previous 3
-DRAW: 11 13 16 47 60 | PB: 13
-VIP 1: 15 19 26 32 42 | PB: 14
-Result: White 0
-VIP 2: 04 18 44 50 57 | PB: 20
-Result: White 0
-VIP 3: (13) 21 49 54 55 | PB: 01
-Result: White 1
-------------------------
-Previous 4
-DRAW: 18 26 49 50 54 | PB: 01
-VIP 1: 13 32 42 44 65 | PB: 14
-Result: White 0
-VIP 2: 04 14 15 51 55 | PB: 20
-Result: White 0
-VIP 3: 01 19 21 (50) 57 | PB: 23
 Result: White 1
 ------------------------
 
