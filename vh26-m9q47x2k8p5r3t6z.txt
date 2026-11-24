@@ -9,6 +9,33 @@ White-ball hits = parentheses
 PB hit = PB number in parentheses
 
 Latest Draw
+DRAW: 07 09 27 40 58 | PB: 19
+VIP 1: 04 29 49 51 56 | PB: 20
+Result: White 0
+VIP 2: 36 44 45 48 57 | PB: 14
+Result: White 0
+VIP 3: 13 18 34 42 50 | PB: 23
+Result: White 0
+------------------------
+Previous 1
+DRAW: 05 29 33 36 45 | PB: 22
+VIP 1: 04 34 42 50 51 | PB: 20
+Result: White 0
+VIP 2: 18 41 44 49 56 | PB: 14
+Result: White 0
+VIP 3: 13 15 (45) 48 57 | PB: 23
+Result: White 1
+------------------------
+Previous 2
+DRAW: 18 31 43 51 62 | PB: 12
+VIP 1: 41 44 49 (51) 56 | PB: 20
+Result: White 1
+VIP 2: 13 15 45 48 57 | PB: 14
+Result: White 0
+VIP 3: 04 34 42 50 60 | PB: 23
+Result: White 0
+------------------------
+Previous 3
 DRAW: 17 35 48 60 69 | PB: 17
 VIP 1: 13 15 45 51 57 | PB: 20
 Result: White 0
@@ -17,40 +44,13 @@ Result: White 0
 VIP 3: 18 41 44 49 56 | PB: 23
 Result: White 0
 ------------------------
-Previous 1
+Previous 4
 DRAW: 09 44 49 51 68 | PB: 04
 VIP 1: 04 15 18 42 57 | PB: 20
 Result: White 0
 VIP 2: 03 45 50 (51) 56 | PB: 14
 Result: White 1
 VIP 3: 08 13 34 41 48 | PB: 23
-Result: White 0
-------------------------
-Previous 2
-DRAW: 08 42 45 51 57 | PB: 17
-VIP 1: 03 15 34 37 56 | PB: 20
-Result: White 0
-VIP 2: 13 29 (42) 48 50 | PB: 14
-Result: White 1
-VIP 3: 04 18 21 23 41 | PB: 23
-Result: White 0
-------------------------
-Previous 3
-DRAW: 13 34 41 45 48 | PB: 25
-VIP 1: 02 03 15 37 56 | PB: 20
-Result: White 0
-VIP 2: 04 (13) 29 32 42 | PB: 14
-Result: White 1
-VIP 3: 18 21 23 50 55 | PB: 23
-Result: White 0
-------------------------
-Previous 4
-DRAW: 03 36 37 56 61 | PB: 21
-VIP 1: 04 13 21 55 (56) | PB: 20
-Result: White 1
-VIP 2: 02 16 23 42 50 | PB: 14
-Result: White 0
-VIP 3: 15 18 19 29 32 | PB: 23
 Result: White 0
 ------------------------
 
