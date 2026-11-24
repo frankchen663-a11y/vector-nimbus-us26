@@ -2,21 +2,21 @@ US Draw AI
 VIP PICKS
 
 VIP 1
-41 44 49 51 56 | PB: 20
+13 18 42 44 51 | PB: 20
 
 VIP 2
-13 15 45 48 57 | PB: 14
+07 29 34 45 56 | PB: 14
 
 VIP 3
-04 34 42 50 60 | PB: 23
+04 09 36 48 58 | PB: 23
 
 MODEL PERFORMANCE
 Last 260 true walk-forward draws
 
 VIP WHITE BALLS - 3 DISJOINT GROUPS
-At least one VIP group White 2+: 34/260 = 13.08%
+At least one VIP group White 2+: 33/260 = 12.69%
 Random 3-group White 2+ baseline: 11.51%
-White 2+ Lift: +1.57 percentage points
+White 2+ Lift: +1.19 percentage points
 At least one VIP group White 3+: 2/260 = 0.77%
 
 ORDINARY / SINGLE WHITE GROUP
